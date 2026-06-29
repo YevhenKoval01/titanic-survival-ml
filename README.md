@@ -71,6 +71,3 @@ The dataset is ignored by Git, so the repository stays clean if the data license
 
 Generated charts are saved in the `outputs/` folder.
 
-## Status
-
-Completed academic machine learning project, cleaned and prepared for GitHub.
