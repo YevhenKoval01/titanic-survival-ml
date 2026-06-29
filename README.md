@@ -11,10 +11,6 @@ A machine learning project that explores the Titanic passenger dataset and compa
 - seaborn
 - scikit-learn
 
-## Repository Name
-
-Recommended GitHub repository name: `titanic-survival-ml`
-
 ## Project Structure
 
 ```text
